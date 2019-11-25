@@ -1,5 +1,5 @@
 require 'byebug'
-require_relative 'trie.rb'
+require_relative 'node.rb'
 
 class Queens
   def self.solve(n)
